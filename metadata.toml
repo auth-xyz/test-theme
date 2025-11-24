@@ -1,0 +1,18 @@
+[theme]
+name = "Gruvbox Material"
+author = "sainnhe"
+version = "1.0.0"
+description = "Material variant of Gruvbox"
+homepage = "https://github.com/sainnhe/gruvbox-material"
+
+# What variants exist
+variants = ["dark"]
+
+targets = [
+    "waybar",
+    "hyprland",
+    "kitty",
+    "alacritty",
+    "rofi",
+    "dunst",
+]
